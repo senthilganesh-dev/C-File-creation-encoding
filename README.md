@@ -1,4 +1,4 @@
-# Huffman Coding – C++ Implementation
+# Huffman Coding With Texteditor(console based)– C++ Implementation
 
 A simple implementation of the **Huffman Coding algorithm using C++**. This project demonstrates how character frequency analysis, binary trees, sorting, and recursion can be combined to generate variable-length binary codes for characters.
 
